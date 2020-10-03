@@ -19,6 +19,7 @@
   },
   "ResponseType": "Text",
   "URL": "https://perfexcrm_url_here/media/public/sharex/$json:url$"
+ }
  */
 
 set_error_handler("myErrorHandler");
