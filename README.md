@@ -1,6 +1,6 @@
 # sharex-to-perfexcrm
 
-accept uploads form sharex and place them in media/public/sharex forlder
+accept uploads form sharex and place them in media/public/sharex folder
 
 ## to install
 ### server side:
@@ -24,7 +24,7 @@ accept uploads form sharex and place them in media/public/sharex forlder
   "ResponseType": "Text",
   "URL": "https://perfexcrm_url_here/media/public/sharex/$json:url$"
  }
-<code>
+</code>
     
 2.1 change the urls to Perfexcrm url  
 2.2 update secret to match tokens on server side  
