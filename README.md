@@ -26,6 +26,6 @@ accept uploads form sharex and place them in media/public/sharex forlder
  }
 <code>
     
-  2.1 change the urls to Perfexcrm url  
-  2.2 update secret to match tokens on server side  
-  2.3 double click to import settings to sharex  
+2.1 change the urls to Perfexcrm url  
+2.2 update secret to match tokens on server side  
+2.3 double click to import settings to sharex  
